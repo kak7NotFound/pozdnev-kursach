@@ -1,0 +1,10 @@
+C:\Users\kak7\Documents\GitHub\pozdnev-kursach\pozdnev-kursach\pozdnev-kursach\bin\Debug\pozdnev_kursach.exe.config
+C:\Users\kak7\Documents\GitHub\pozdnev-kursach\pozdnev-kursach\pozdnev-kursach\bin\Debug\pozdnev_kursach.exe
+C:\Users\kak7\Documents\GitHub\pozdnev-kursach\pozdnev-kursach\pozdnev-kursach\bin\Debug\pozdnev_kursach.pdb
+C:\Users\kak7\Documents\GitHub\pozdnev-kursach\pozdnev-kursach\pozdnev-kursach\obj\Debug\pozdnev-kursach.csproj.AssemblyReference.cache
+C:\Users\kak7\Documents\GitHub\pozdnev-kursach\pozdnev-kursach\pozdnev-kursach\obj\Debug\pozdnev-kursach.csproj.SuggestedBindingRedirects.cache
+C:\Users\kak7\Documents\GitHub\pozdnev-kursach\pozdnev-kursach\pozdnev-kursach\obj\Debug\pozdnev_kursach.Properties.Resources.resources
+C:\Users\kak7\Documents\GitHub\pozdnev-kursach\pozdnev-kursach\pozdnev-kursach\obj\Debug\pozdnev-kursach.csproj.GenerateResource.cache
+C:\Users\kak7\Documents\GitHub\pozdnev-kursach\pozdnev-kursach\pozdnev-kursach\obj\Debug\pozdnev-kursach.csproj.CoreCompileInputs.cache
+C:\Users\kak7\Documents\GitHub\pozdnev-kursach\pozdnev-kursach\pozdnev-kursach\obj\Debug\pozdnev_kursach.exe
+C:\Users\kak7\Documents\GitHub\pozdnev-kursach\pozdnev-kursach\pozdnev-kursach\obj\Debug\pozdnev_kursach.pdb
